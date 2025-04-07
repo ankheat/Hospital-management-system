@@ -110,11 +110,17 @@ Data is imported from local CSV files using two methods:
 Hospital-management-system/
 │
 ├── Hospital_Management.sql      # Full SQL script (schema + data load + queries)
+
 ├── PatientID.csv                # Sample patient data
+
 ├── DoctorID.csv                 # Sample doctor data
+
 ├── Hospital.csv                 # Appointment data
+
 ├── Billing.csv                  # Billing and payment data
+
 ├── MedicalRecords.csv           # Medical records data
+
 └── README.md                    # Project documentation
 
 ## 📫 Contact
