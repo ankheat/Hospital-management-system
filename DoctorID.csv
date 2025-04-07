@@ -1,0 +1,11 @@
+Doctor ID,FirstName,LastName,Specialization,Phone,Email,Availability
+6,Aarav,Patel,Cardiologist,+91 98765 43210,aarav.patel@example.com,
+4,Priya,Sharma,Pediatrician,+91 87654 32109,priya.sharma@example.com,
+9,Rajesh,Gupta,Orthopedic Surgeon,+91 96543 21098,rajesh.gupta@example.com,
+7,Neha,Mehta,Dermatologist,+91 75432 10987,neha.mehta@example.com,
+5,Vikram,Joshi,Neurologist,+91 64321 09876,vikram.joshi@example.com,
+8,Anjali,Rao,Obstetrician-Gynecologist,+91 53210 98765,anjali.rao@example.com,
+10,Karan,Singh,General Surgeon,+91 42109 87654,karan.singh@example.com,
+1,Rina,Kapoor,Ophthalmologist,+91 31098 76543,rina.kapoor@example.com,
+3,Manoj,Deshmukh,Gastroenterologist,+91 20987 65432,manoj.deshmukh@example.com,
+2,Sanya,Verma,Endocrinologist,+91 10987 65432,sanya.verma@example.com,

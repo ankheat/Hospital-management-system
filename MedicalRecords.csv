@@ -1,0 +1,101 @@
+﻿RecordID,PatientID,DoctorID,Diagnosis,Prescription,TreatmentPlan,RecordDate
+101,1044,6,Heart Attack,,,2023-10-03
+102,1047,4,Croup,,,2023-10-06
+103,1001,9,Osteoarthritis,,,2023-10-06
+104,1052,7,Psoriasis,,,2023-10-09
+105,1078,5,Parkinson's Disease,,,2023-10-08
+106,1007,8,Endometriosis,,,2023-10-07
+107,1094,4,Measles,,,2023-10-04
+108,1058,10,Appendicitis,,,2023-10-02
+109,1017,1,Cataracts,,,2023-10-07
+110,1019,6,Congestive Heart Failure,,,2023-10-06
+111,1080,3,Crohn’s Disease,,,2023-10-04
+112,1021,7,Eczema,,,2023-10-09
+113,1032,5,Multiple Sclerosis,,,2023-10-09
+114,1097,10,Hernia,,,2023-10-05
+115,1027,7,Acne,,,2023-10-07
+116,1006,8,Polycystic Ovary Syndrome,,,2023-10-06
+117,1073,2,Cushing's Syndrome,,,2023-10-08
+118,1023,3,Liver Cirrhosis,,,2023-10-04
+119,1061,1,Conjunctivitis,,,2023-10-04
+120,1062,9,Fractures,,,2023-10-02
+121,1003,5,Stroke,,,2023-10-09
+122,1030,4,Chickenpox,,,2023-10-06
+123,1089,2,Growth Hormone Deficiency,,,2023-10-08
+124,1055,6,Arrhythmia,,,2023-10-03
+125,1020,7,Skin Cancer,,,2023-10-03
+126,1014,2,Osteoporosis,,,2023-10-05
+127,1088,5,Migraine,,,2023-10-05
+128,1004,4,Measles,,,2023-10-08
+129,1022,9,Rheumatoid Arthritis,,,2023-10-05
+130,1065,6,Hypertension,,,2023-10-02
+131,1066,8,Pregnancy-related Conditions,,,2023-10-04
+132,1092,10,Colon Cancer,,,2023-10-08
+133,1034,2,Hypothyroidism,,,2023-10-03
+134,1090,7,Acne,,,2023-10-07
+135,1038,6,Coronary Artery Disease,,,2023-10-09
+136,1046,5,Alzheimer’s Disease,,,2023-10-03
+137,1077,1,Astigmatism,,,2023-10-06
+138,1069,3,Gallstones,,,2023-10-08
+139,1053,4,"Hand, Foot, and Mouth Disease",,,2023-10-09
+140,1008,8,Fibroids,,,2023-10-02
+141,1056,7,Rosacea,,,2023-10-07
+142,1016,2,Osteoporosis,,,2023-10-05
+143,1071,9,Scoliosis,,,2023-10-03
+144,1063,5,Amyotrophic Lateral Sclerosis,,,2023-10-05
+145,1018,3,Pancreatitis,,,2023-10-07
+146,1074,1,Presbyopia,,,2023-10-02
+147,1050,10,Gastric Ulcers,,,2023-10-06
+148,1035,7,Eczema,,,2023-10-08
+149,1072,8,Ovarian Cysts,,,2023-10-06
+150,1040,6,Valvular Heart Disease,,,2023-10-05
+151,1051,9,Tendonitis,,,2023-10-04
+152,1098,4,Scarlet Fever,,,2023-10-07
+153,1024,1,Retinal Detachment,,,2023-10-06
+154,1042,7,Warts,,,2023-10-02
+155,1086,10,Pancreatitis,,,2023-10-03
+156,1079,3,Irritable Bowel Syndrome,,,2023-10-05
+157,1096,5,Neuropathy,,,2023-10-04
+158,1060,8,Ectopic Pregnancy,,,2023-10-03
+159,1083,6,Cardiomyopathy,,,2023-10-09
+160,1064,2,Hyperparathyroidism,,,2023-10-04
+161,1036,9,Sprains and Strains,,,2023-10-05
+162,1013,7,Vitiligo,,,2023-10-06
+163,1099,5,Headaches,,,2023-10-09
+164,1084,4,Bronchiolitis,,,2023-10-02
+165,1076,10,Obesity,,,2023-10-07
+166,1026,1,Dry Eye Syndrome,,,2023-10-04
+167,1067,8,Amenorrhea,,,2023-10-08
+168,1048,6,Angina,,,2023-10-07
+169,1043,3,Pancreatitis,,,2023-10-05
+170,1012,7,Fungal Infections,,,2023-10-06
+171,1037,2,Diabetes Mellitus,,,2023-10-02
+172,1093,5,Epilepsy,,,2023-10-08
+173,1009,9,Carpal Tunnel Syndrome,,,2023-10-09
+174,1087,1,Age-related Macular Degeneration,,,2023-10-03
+175,1054,4,Croup,,,2023-10-08
+176,1028,10,Breast Cancer,,,2023-10-06
+177,1011,3,Peptic Ulcers,,,2023-10-03
+178,1002,8,Cervical Cancer,,,2023-10-04
+179,1091,6,Atrial Fibrillation,,,2023-10-05
+180,1075,7,Acne,,,2023-10-02
+181,1033,1,Retinal Detachment,,,2023-10-08
+182,1082,5,Dementia,,,2023-10-07
+183,1049,2,Polycystic Ovary Syndrome,,,2023-10-05
+184,1085,9,Herniated Disc,,,2023-10-04
+185,1005,3,Gastroesophageal Reflux Disease,,,2023-10-06
+186,1031,4,Ear Infections,,,2023-10-08
+187,1029,10,Liver Disease,,,2023-10-07
+188,1045,8,Pelvic Inflammatory Disease,,,2023-10-03
+189,1095,6,Atrial Fibrillation,,,2023-10-05
+190,1025,7,Vitiligo,,,2023-10-08
+191,1068,5,Headaches,,,2023-10-06
+192,1070,3,Liver Cirrhosis,,,2023-10-02
+193,1015,1,Presbyopia,,,2023-10-09
+194,1039,9,Bursitis,,,2023-10-08
+195,1059,2,Addison’s Disease,,,2023-10-07
+196,1010,10,Liver Disease,,,2023-10-03
+197,1041,4,Colic,,,2023-10-04
+198,1111,8,Urinary Incontinence,,,2023-10-05
+199,1029,7,Contact Dermatitis,,,2023-10-09
+200,1031,6,Peripheral Artery Disease,,,2023-10-02
